@@ -9,7 +9,6 @@ import Cart from "./components/Cart";
 import Login from "./components/Login";
 import Register from "./components/Register";
 import Laptop from "./components/Laptop";
-// import Flowerpot from "./components/Flowerpot";
 import Wardrobe from "./components/Wardrobe";
 import Sofa from "./components/Sofa";
 import Chair from "./components/Chair";
